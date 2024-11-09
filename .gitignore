@@ -1,0 +1,5 @@
+# Ignore the virtual environment
+fcenv/
+
+# Ignore the trained model file
+*.pkl
