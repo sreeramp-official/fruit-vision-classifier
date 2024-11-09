@@ -31,6 +31,7 @@ This project is part of a learning exercise to explore machine learning model de
 
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Streamlit app using `streamlit run app/fruit-classification-app.py`.
+3. To train the model, run the `fruit_classifier_model_training.ipynb` notebook. This will train the Random Forest model using the dataset and save the trained model to disk.
+4. Run the Streamlit app using `streamlit run app/fruit-classification-app.py`.
 
     
